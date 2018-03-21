@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "559289485398",
+    "firebase_url": "https://dsctextchat.firebaseio.com",
+    "project_id": "dsctextchat",
+    "storage_bucket": "dsctextchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559289485398:android:14886a8b32050a4d",
+        "android_client_info": {
+          "package_name": "com.varun.dsctextchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559289485398-ej400dv98lk7lhgi3uli9ger8aru7lld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.varun.dsctextchat",
+            "certificate_hash": "ef362ae16160ffe84e11bb36f2f28bed11ed3ebf"
+          }
+        },
+        {
+          "client_id": "559289485398-4uo19f736apbu690ar03j8semutqeleg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbI9jK9S2XNx5Yathcb9fRUWuvJynKc_A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559289485398-4uo19f736apbu690ar03j8semutqeleg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
